@@ -1,4 +1,4 @@
-# pronostico-cancelacion
+# interconnect
 Pronosticaremos la tasa de cancelación de clientes de interconnect, para de esta manera ofrecer productos o servicios antes de la solicitud de baja por parte del cliente
 
 Interconnet, el operador de telecomunicaciones, proporciona diferentes servicios a sus clientes. Principalmente planes de internet y comunicación por teléfono fijo a través de la conexión a varias líneas. También, los usuarios se benefician con otros servicios como seguridad en línea, almacenamiento de datos en la nube, backup de datos, línea de soporte técnico, streaming de TV y películas. Interconect ofrece varias metodologías de pago: mensual o un contrato anual o bianual, utilizando varios métodos de pago y recibir una factura electrónica después de una transacción.
