@@ -1,2 +1,8 @@
 # pronostico-cancelacion
 Pronosticaremos la tasa de cancelación de clientes de interconnect, para de esta manera ofrecer productos o servicios antes de la solicitud de baja por parte del cliente
+
+Interconnet, el operador de telecomunicaciones, proporciona diferentes servicios a sus clientes. Principalmente planes de internet y comunicación por teléfono fijo a través de la conexión a varias líneas. También, los usuarios se benefician con otros servicios como seguridad en línea, almacenamiento de datos en la nube, backup de datos, línea de soporte técnico, streaming de TV y películas. Interconect ofrece varias metodologías de pago: mensual o un contrato anual o bianual, utilizando varios métodos de pago y recibir una factura electrónica después de una transacción.
+
+La intención de este estudio es predecir si el cliente tiene intención de suspender los servicios contratados, para de esa manera poderle ofrecer un plan que se ajuste a sus necesidades y evitar el éxodo de clientes. Apoyados en el equipo de marketing quienes proporcionaron las 4 bases de datos usadas en este estudio, esperan recibir nuestras respuestas, luego de construir el mejor modelo de clasificación, para poder ofrecerle a estos clientes una mejor opción. 
+
+La estructura del estudio consta de varias secciones: comenzaremos por la importación de las librerías a utilizar y los 4 datasets sumistrados. De cada base de datos, haremos un desglose de datos, obteniendo valores ausentes, duplicados, número de entradas, datos en común en las tablas par poder unificarlas y hacer el estudio exhaustivo que la empresa espera. Estarán incluidos los gráficos correspondientes, los análisis y metodologías de evaluación del modelo. Luego los modelos y finalmente los resultados y un informe completo.
